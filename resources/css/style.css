@@ -134,10 +134,8 @@ img {
 
 .image-container img {
   opacity: 0.7;
-  transition: transform .5s,
-              opacity .5s;
-  transition: transform .5s,
-              opacity .5s;
+  transition: transform .5s, opacity .5s;
+  transition: transform .5s, opacity .5s;
 }
 
 .image-container img:hover {
